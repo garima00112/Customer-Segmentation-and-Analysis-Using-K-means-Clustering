@@ -36,6 +36,7 @@ data.csv: Sample dataset of Mall Customers.
 **Results**
 The analysis revealed five distinct customer segments with varying income levels and spending behaviors. Visualizations illustrate the distribution of clusters and highlight key insights for targeted marketing strategies.
 
+
 **Future Improvements**
 Incorporate additional demographic features for more comprehensive segmentation.
 Implement clustering evaluation metrics for model validation.
